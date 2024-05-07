@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshannv" alt="darshannv" /></a> </p>
 
-- 🔭 I’m currently working on [Fillofee](https://filoffee.ai/)
+- 🔭 I’m currently looking for an Opportubity
 
 - 📝 I regularly write articles on [https://medium.com/@darshanvasu3048](https://medium.com/@darshanvasu3048)
 
-- 💬 Ask me about **Laravel, Django, Reactjs, Flask, Code-Igniter**
+- 💬 Ask me about **Laravel, Django, Reactjs, Flask, Nodejs**
 
 - 📫 How to reach me **darshanvasu3048@gmail.com**
 
