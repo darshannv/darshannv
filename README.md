@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@darshanvasu3048](https://medium.com/@darshanvasu3048)
 
-- 💬 Ask me about **Laravel, Django, Reactjs, Flask, Nodejs (MERN Stack)**
+- 💬 Ask me about **Laravel, Django, Reactjs, Flask (Full Stack)**
 
 - 📫 How to reach me **darshanvasu3048@gmail.com**
 
